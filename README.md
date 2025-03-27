@@ -1,16 +1,32 @@
-## Hi there 👋
+### Salut, moi c’est Mounina 👋
 
-<!--
-**mounina66/mounina66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en 3ᵉ année à aivancity (IA et Data)  
+💼 À la recherche d’une alternance en Data Science à partir de septembre 2025  
+💡 Passionnée par l’IA, l’analyse de données, et les projets à impact positif  
+📍 Basée à Paris / mobile en IDF  
+🌱 Je travaille actuellement sur un projet de génération de rapports médicaux avec l’IA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 ### 🧠 Compétences
+
+#### Langages de programmation
+Python,SQL,R, Spark, VBA
+
+#### Analyse et Visualisation de données
+Excel, Tableau, Power BI
+
+#### Bases de données
+Microsoft Access
+
+#### Outils de gestion de projets & de reporting
+Looker Studio
+
+
+
+
+
+
+📫 Contacte-moi : [Gmail] (mouninatoure01@gmail.com)
+📎 [LinkedIn](www.linkedin.com/in/mounina-toure-764a76251) 
+
